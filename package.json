@@ -4,6 +4,6 @@
   },
   "scripts": {
     "dev:serve": "live-server .",
-    "tw:watch": "npx tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+    "tw:watch": "npx tailwindcss -i ./src/tailwind.css -o ./dist/styles.css --watch"
   }
 }
